@@ -90,7 +90,7 @@ For all five models, the following metrics and diagnostics were generated and co
  
 ## 📈 Power BI Dashboard
  
-![Power BI Dashboard](C:\Users\manik\OneDrive\Pictures\Screenshots\Dashboard)
+![Power BI Dashboard](./Dashboard.png)
  
 A companion **Power BI report (`Customer_Loyalty.pbix`)** was built on the cleaned dataset for business-facing exploration, featuring:
 - A **Ribbon Chart** comparing Unit Sale Price and Unit Cost by Quantity Sold
